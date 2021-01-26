@@ -24,3 +24,9 @@ These are the HSV values of the blue color. If you want to detect another ranget
         cv2.line(img,pts[i-1], pts[i],(0,255,255),3)
 
 
+## Feature matching and Template Matching:
+You should check this out links.
+	
+1)https://www.docs.opencv.org/master/dc/dc3/tutorial_py_matcher.html (Feature matching) 								
+2)https://docs.opencv.org/master/d4/dc6/tutorial_py_template_matching.html (Template matching)
+
