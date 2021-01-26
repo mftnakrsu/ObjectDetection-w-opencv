@@ -10,7 +10,7 @@ These are the HSV values of the blue color. If you want to detect another ranget
 	blue_u=(179,255,255)
 
  
- I stored a point in the center of the object with the 'deque' command. However, I made a simple 'tracking' application:
+ I stored a point in the center of the object with the 'deque' command.So, I made a simple 'tracking' application:
 	
 	from collections import deque
 
