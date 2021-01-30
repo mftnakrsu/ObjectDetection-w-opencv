@@ -47,6 +47,7 @@ You should check this out links.
 	
 ## Dataset: 
 You need to collect positive and negative pictures of your object. You can do it easily with 'custom_cascade.py' script with your cam.
+
 ![alt text](https://r.resimlink.com/2mN.jpg)
 
 ## Create Cascade:
